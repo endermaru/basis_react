@@ -3,6 +3,7 @@
 }
 
 .todos{
+  text-align: left;
   list-style-position: inside;
   border:3px solid black;
   padding: 5px;
